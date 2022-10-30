@@ -1,10 +1,4 @@
 # Hello world!
 
 staty in.
-
-git got
-
-log my bad
-
-I love yot
-lets go
+this is [link](http://google.com/)
